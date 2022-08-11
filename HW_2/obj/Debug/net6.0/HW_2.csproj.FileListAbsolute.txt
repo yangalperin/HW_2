@@ -1,0 +1,15 @@
+/Users/yan/Desktop/дз с#_2/HW_2/bin/Debug/net6.0/HW_2
+/Users/yan/Desktop/дз с#_2/HW_2/bin/Debug/net6.0/HW_2.deps.json
+/Users/yan/Desktop/дз с#_2/HW_2/bin/Debug/net6.0/HW_2.runtimeconfig.json
+/Users/yan/Desktop/дз с#_2/HW_2/bin/Debug/net6.0/HW_2.dll
+/Users/yan/Desktop/дз с#_2/HW_2/bin/Debug/net6.0/HW_2.pdb
+/Users/yan/Desktop/дз с#_2/HW_2/obj/Debug/net6.0/HW_2.csproj.AssemblyReference.cache
+/Users/yan/Desktop/дз с#_2/HW_2/obj/Debug/net6.0/HW_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yan/Desktop/дз с#_2/HW_2/obj/Debug/net6.0/HW_2.AssemblyInfoInputs.cache
+/Users/yan/Desktop/дз с#_2/HW_2/obj/Debug/net6.0/HW_2.AssemblyInfo.cs
+/Users/yan/Desktop/дз с#_2/HW_2/obj/Debug/net6.0/HW_2.csproj.CoreCompileInputs.cache
+/Users/yan/Desktop/дз с#_2/HW_2/obj/Debug/net6.0/HW_2.dll
+/Users/yan/Desktop/дз с#_2/HW_2/obj/Debug/net6.0/refint/HW_2.dll
+/Users/yan/Desktop/дз с#_2/HW_2/obj/Debug/net6.0/HW_2.pdb
+/Users/yan/Desktop/дз с#_2/HW_2/obj/Debug/net6.0/HW_2.genruntimeconfig.cache
+/Users/yan/Desktop/дз с#_2/HW_2/obj/Debug/net6.0/ref/HW_2.dll
